@@ -1,0 +1,32 @@
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\bin\Debug\Famili.exe.config
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\bin\Debug\Famili.exe
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\bin\Debug\Famili.pdb
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.csprojResolveAssemblyReference.cache
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.Form1.resources
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.Properties.Resources.resources
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.csproj.GenerateResource.Cache
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.exe
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.pdb
+c:\users\11925\documents\visual studio 2015\Projects\Famili\Famili\obj\Debug\Famili.Form2.resources
+C:\Users\Дима\Desktop\Famili\Famili\bin\Debug\Famili.exe.config
+C:\Users\Дима\Desktop\Famili\Famili\bin\Debug\Famili.exe
+C:\Users\Дима\Desktop\Famili\Famili\bin\Debug\Famili.pdb
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.Form1.resources
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.Form2.resources
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.Properties.Resources.resources
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.exe
+C:\Users\Дима\Desktop\Famili\Famili\obj\Debug\Famili.pdb
+C:\Users\Dima\Desktop\Famili\Famili\bin\Debug\Famili.exe.config
+C:\Users\Dima\Desktop\Famili\Famili\bin\Debug\Famili.exe
+C:\Users\Dima\Desktop\Famili\Famili\bin\Debug\Famili.pdb
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.Form1.resources
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.Form2.resources
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.Properties.Resources.resources
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.exe
+C:\Users\Dima\Desktop\Famili\Famili\obj\Debug\Famili.pdb
